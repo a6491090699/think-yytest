@@ -1,0 +1,26 @@
+{
+	"name":"think-yytest",
+	"description":"yytest",
+	"keyword":["think" ,"thinkPHP","thinkphp"],
+	"license":"MIT",
+	"author":[
+		{
+			"name":"a6491090699",
+			"email":"649109069@qq.com"
+		}
+	],
+	"require":{
+		"topthink/framework":"5.1.*"
+	},
+	"autoload":{
+		"psr-4":{
+			"think\\yytest\\":"src"
+		},
+		"files":{
+			"src/config.php"
+		}
+	},
+
+
+
+}
